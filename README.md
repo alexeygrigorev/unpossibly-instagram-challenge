@@ -3,8 +3,8 @@
 Predicting the number of likes an instagram post will receive in 24 hours 
 
 - This is the 1st place solution
-- Leaderboard: http://challenges.instagram.unpossib.ly/leaderboard/
-- Challenge description available on the bottom of the leaderboard
+- Challenge description: http://live.unpossib.ly/instagram
+
 
 The solution:
 

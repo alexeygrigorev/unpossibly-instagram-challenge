@@ -13,7 +13,7 @@ import numpy as np
 import requests
 from time import time, sleep
 
-auth = ('alexey.s.grigoriev@gmail.com', 'kxpeBSSU7KGElhAaec7brqApIpidk7ob')
+auth = ('email-here', 'password-here')
 
 
 print('loading models...')
